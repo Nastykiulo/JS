@@ -1,4 +1,4 @@
-# Team 5
+# React JS
 
 * **[React](https://facebook.github.io/react/)** (17.x)
 * **[Webpack](https://webpack.js.org/)** (5.x)
